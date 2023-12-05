@@ -6,4 +6,4 @@
 	url = https://github.com/Nemirtingas/System.git
 [submodule "deps/mini_detour"]
 	path = deps/mini_detour
-	url = https://github.com/Nemirtingas/mini_detour.git
+	url = https://github.com/Zachareee/mini_detour
